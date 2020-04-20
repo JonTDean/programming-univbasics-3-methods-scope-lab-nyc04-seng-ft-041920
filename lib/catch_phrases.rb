@@ -13,6 +13,10 @@ def link
   puts phrase
 end
 
-def all_phrases(arg)
-  puts arg
+def all_phrases(arg1, arg2, arg3)
+  puts arg1
+  puts arg2
+  puts arg3
 end
+
+all
