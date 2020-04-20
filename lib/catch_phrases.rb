@@ -19,4 +19,4 @@ def all_phrases(arg1, arg2, arg3)
   puts arg3
 end
 
-all_phrases(mario, link)
+all_phrases(mario, link, toadstool)
