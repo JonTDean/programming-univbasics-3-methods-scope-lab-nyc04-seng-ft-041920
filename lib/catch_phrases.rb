@@ -13,8 +13,7 @@ def link
   puts phrase
 end
 
-def all_phrases(arg1, arg2, arg3)
-  return arg1, arg2, arg3
+def all_phrases
+  puts mario, link, toadstool
 end
 
-puts all_phrases(mario, link, toadstool)
