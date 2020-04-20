@@ -14,9 +14,7 @@ def link
 end
 
 def all_phrases(arg1, arg2, arg3)
-  puts arg1
-  puts arg2
-  puts arg3
+  return arg1, arg2, arg3
 end
 
 puts all_phrases(mario, link, toadstool)
